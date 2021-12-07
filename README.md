@@ -18,9 +18,7 @@ Currently i'm studing front-end technologies, but i have knowledge in back-end t
   * Mongodb
   * MySQL
   * Postgres
----
-### My Hobbies
----
-🎸 Play the guitar
-🎮 Play some games
-🖥️ Program
+## My Hobbies
+*🎸 Play the guitar
+*🎮 Play some games
+*🖥️ Program
