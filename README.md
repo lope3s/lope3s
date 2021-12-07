@@ -18,6 +18,6 @@ One of my passions is to learn new tecnologies that match my vision and the comp
   * MySQL
   * Postgres
 ## My Hobbies
-*🎸 Play the guitar
-*🎮 Play some games
-*🖥️ Program
+🎸 Play the guitar  
+🎮 Play some games  
+🖥️ Program
