@@ -3,7 +3,6 @@ Hi, i'm Luan Lopes and i'm from São Bernardo do Campo, São Paulo/Brazil. I'm 2
 One of my passions is to learn new tecnologies that match my vision and the companies necessity, solving problems with the best technologies is just amazing.
 Currently i'm studing front-end technologies, but i have knowledge in back-end techs like, Node.js and Python, meanwhile, as a full-stack dev, i'm working with focous in my front-end expertise to master it.
 ### Main skills:
----
 #### Front-End:
 * React.js
   * Redux/easy-peasy
