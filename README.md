@@ -7,16 +7,20 @@ One of my passions is to learn new tecnologies that match my vision and the comp
    * Redux/easy-peasy
    * Next.js
    * React Native
-  * Apollo Client
+  * GraphQL (Apollo server and client)
   * Typescript
 * Back-End:
   * Node.js
    * Express
+   * typeORM
+   * sequelize
   * Python
+   * Flask
+   * Django
 * Databases:
   * Mongodb
   * MySQL
-  * Postgres
+  * PostgreSQL
 ## My Hobbies
 🎸 Play the guitar  
 🎮 Play some games  
